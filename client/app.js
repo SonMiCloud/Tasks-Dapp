@@ -68,7 +68,6 @@ App = {
           </div>
          </div>`;
         html += taskElement;
-        
       }
   
       document.getElementById('taskList').innerHTML = html;
